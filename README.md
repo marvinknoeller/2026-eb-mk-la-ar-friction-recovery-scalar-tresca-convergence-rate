@@ -1,0 +1,1 @@
+# 2026-eb-mk-la-ar-friction-recovery-scalar-tresca-convergence-rate
